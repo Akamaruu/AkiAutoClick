@@ -1,0 +1,2 @@
+# AkiAutoClick
+a simple autoclick.
